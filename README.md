@@ -5,7 +5,7 @@
 - Use Git version control
 - Use command line
 - Develop locally on your computer
-- Prerequisites:
+## Prerequisites:
 - JavaScript
 - Git and GitHub
 - Command line
