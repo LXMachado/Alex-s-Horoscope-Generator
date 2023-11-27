@@ -10,6 +10,7 @@ JavaScript
 Git and GitHub
 Command line
 
+## Description
 A simple web application that provides daily horoscope readings based on zodiac signs. Users can click the "Generate Horoscope" button to get their personalized horoscope message.
 
 ## Features
